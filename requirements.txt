@@ -1,0 +1,27 @@
+# FastAPI and related libraries
+fastapi
+uvicorn
+
+# For data processing and numerical computations
+numpy
+pandas
+scikit-learn
+
+# For deep learning models (if you use LSTM or any neural network)
+tensorflow   # or       # (choose one based on your model)
+
+# For working with dates and times
+python-dateutil
+
+# For pickling and saving models
+joblib
+
+# Other potential dependencies (based on your project requirements)
+matplotlib      # For plotting
+seaborn      # For statistical data visualization
+jupyter       # For running notebooks (if needed)
+pydantic       # For data validation     # If using a database connection
+
+# Additional dependencies (depending on your usage)
+fastapi-utils   # Utilities for FastAPI
+httpx    # Async HTTP client for Python
